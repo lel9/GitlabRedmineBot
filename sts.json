@@ -1,0 +1,88 @@
+[
+ {
+  "curr": 7,
+  "next": 9,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 8,
+  "next": 9,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 9,
+  "next": 8,
+  "actions": ["close"]
+ },
+ {
+  "curr": 9,
+  "next": 10,
+  "actions": ["merge"]
+ },
+ {
+  "curr": 10,
+  "next": 12,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 11,
+  "next": 12,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 12,
+  "next": 11,
+  "actions": ["close"]
+ },
+ {
+  "curr": 12,
+  "next": 14,
+  "actions": ["merge"]
+ },
+ {
+  "curr": 14,
+  "next": 16,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 15,
+  "next": 16,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 16,
+  "next": 15,
+  "actions": ["close"]
+ },
+ {
+  "curr": 16,
+  "next": 17,
+  "actions": ["merge"]
+ },
+ {
+  "curr": 17,
+  "next": 19,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 18,
+  "next": 19,
+  "actions": ["open", "reopen"]
+ },
+ {
+  "curr": 19,
+  "labels": ["списано"],
+  "next": 20,
+  "actions": ["merge"]
+ },
+ {
+  "curr": 19,
+  "next": 18,
+  "actions": ["close"]
+ },
+ {
+  "curr": 19,
+  "next": 3,
+  "actions": ["merge"]
+ }
+]
